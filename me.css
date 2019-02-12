@@ -23,3 +23,12 @@ a{
     max-height: 20%;
     border: 5px solid white;
 }
+
+.lista-linha {
+    padding-left: 0;
+    list-style: none;
+}
+
+.lista-linha li{
+    display: inline-block;
+}
