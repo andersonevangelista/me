@@ -1,0 +1,25 @@
+.intro {
+    color: white;
+    text-align: center;
+    margin-top: 7%;
+    
+}
+
+body {
+    background-color: #01a3a4
+}
+
+a{
+    color: #e74c3e
+}
+
+.link-laranja{
+    color: #f39c12
+}
+
+.intro img {
+    border-radius: 50%;
+    max-width: 20%;
+    max-height: 20%;
+    border: 5px solid white;
+}
