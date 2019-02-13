@@ -18,7 +18,7 @@ a{
 }
 
 .intro img {
-    border-radius: 50%;
+    border-radius: 20%;
     max-width: 20%;
     max-height: 20%;
     border: 5px solid white;
@@ -31,4 +31,7 @@ a{
 
 .lista-linha li{
     display: inline-block;
+}
+.espaco-icone{
+    margin-left: 5%;
 }
