@@ -6,7 +6,7 @@
     
 }
 
-body {
+.body {
     background-color: #01a3a4
 }
 
@@ -22,7 +22,7 @@ a{
     border-radius: 20%;
     max-width: 20%;
     max-height: 20%;
-    border: 5px solid white;
+    border: 6px solid white;
 }
 
 .lista-linha {
